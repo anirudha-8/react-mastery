@@ -24,17 +24,17 @@ In this repository, you can follow along as I dive deep into React concepts, bui
 
 ## 🎯 Goals
 
-- [ ] Master the fundamentals of React
+- Master the fundamentals of React
 
-- [ ] Build dynamic and responsive web applications
+- Build dynamic and responsive web applications
 
-- [ ] Learn React Hooks for state and side effects management
+- Learn React Hooks for state and side effects management
 
-- [ ] Dive into advanced patterns like Context API and Redux
+- Dive into advanced patterns like Context API and Redux
 
-- [ ] Explore testing in React with Jest and React Testing Library
+- Explore testing in React with Jest and React Testing Library
 
-- [ ] Create a series of React projects to showcase my skills
+- Create a series of React projects to showcase my skills
 
 ## 🌱 Learning Plan
 
@@ -52,13 +52,13 @@ In this repository, you can follow along as I dive deep into React concepts, bui
 
 ## 🚧 Projects In Progress
 
-1. **Simple To-Do App** 📝
+1. [ ] **Simple To-Do App** 📝
 
-2. **Weather Forecast App** ⛅
+2. [ ] **Weather Forecast App** ⛅
 
-3. **E-commerce Store** 🛒
+3. [ ] **E-commerce Store** 🛒
 
-4. **Personal Blog** ✍️
+4. [ ] **Personal Blog** ✍️
 
 ## 💡 Key Takeaways
 
