@@ -74,12 +74,6 @@ As I learn and grow, I will update this section with key takeaways, best practic
 
 Feel free to fork this repository and follow along, or suggest improvements! I'm open to collaborations and discussions as we all grow together.
 
-## 🏆 Achievements
-
-- **[Date]**: Completed React Fundamentals
-
-- **[Date]**: Built and deployed the first React project
-
 ---
 
-Thanks for checking out my journey! Let's master React together! 💪🚀
+### **Thanks for checking out my journey! Let's master React together! 💪🚀**
