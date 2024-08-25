@@ -1,0 +1,3 @@
+[submodule "react-with-vite"]
+	path = react-with-vite
+	url = https://github.com/anirudha-8/react-with-vite.git
