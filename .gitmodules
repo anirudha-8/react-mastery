@@ -1,3 +1,6 @@
 [submodule "react-with-vite"]
 	path = react-with-vite
 	url = https://github.com/anirudha-8/react-with-vite.git
+[submodule "react-with-next"]
+	path = react-with-next
+	url = https://github.com/anirudha-8/react-with-next.git
